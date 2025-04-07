@@ -156,7 +156,7 @@ tr:first-child td {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  max-width: 600px;
+  max-width: 790px;
 }
 input {
   padding: 10px;
