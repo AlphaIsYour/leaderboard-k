@@ -3,7 +3,7 @@
 	import { web3, contract } from './web3';
   
 	let koruptor = [];
-	let loading = false; // Tambah state loading
+	let loading = false; 
   
 	onMount(async () => {
 	  try {
@@ -141,7 +141,7 @@ tr:hover {
   background-color: #ffebeb;
   transition: background-color 0.3s;
 }
-/* Highlight peringkat 1 */
+
 tr:first-child td {
   background-color: #ffd700;
   font-weight: bold;
